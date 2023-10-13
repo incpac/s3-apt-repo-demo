@@ -1,0 +1,7 @@
+Package: helloworld
+Version: 0.1
+Maintainer: Thomas Claridge
+Architecture: all
+Description: Example deb package
+Depends: python3 (>= 3.10)
+
